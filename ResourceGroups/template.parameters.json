@@ -4,7 +4,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "rgName":{
-        "value": "ResourceGroup1"
+        "value": "ResourceGroup100"
       },
 
       "rgLocation":{
