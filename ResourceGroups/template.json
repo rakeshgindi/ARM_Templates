@@ -10,8 +10,8 @@
         },
         /*"storageAccountName": {
             "type": "string"
-        }*/
-    },
+        }
+    },*/
     "variables": {},
     "resources": [
 
