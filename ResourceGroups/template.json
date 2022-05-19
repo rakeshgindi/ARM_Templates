@@ -8,10 +8,10 @@
         "rgLocation": {
             "type": "string"
         },
-        /*"storageAccountName": {
+        "storageAccountName": {
             "type": "string"
         }
-    },*/
+    },
     "variables": {},
     "resources": [
 
